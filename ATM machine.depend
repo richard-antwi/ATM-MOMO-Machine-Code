@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681690654 source:c:\users\richard antwi\desktop\c++\atm machine\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+
